@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ShareDataBetweenComponent';
+  parentMessage = 'Parent Component Messagejjjjj';
 }
